@@ -1,0 +1,8 @@
+etc/
+myenv/
+origin/
+tensorflow/
+ws/
+aug/test/
+aug/train/
+aug/val/
